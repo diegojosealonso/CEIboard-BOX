@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>CEIboard Box</title>
+        <link>https://www.ceiboardbox.com</link>
+        <description>Descripción de la página.</description>
+        <language>es</language>
+
+        <item>
+            <title>Gatito 1</title>
+            <guid>https://www.ceiboardbox.com/gatito-1</guid>
+            <description>Descripción del gatito 1.</description>
+        </item>
+
+        <item>
+            <title>Gatito 2</title>
+            <guid>https://www.ceiboardbox.com/gatito-2</guid>
+            <description>Descripción del gatito 2.</description>
+        </item>
+
+        <item>
+            <title>Gatito 3</title>
+            <guid>https://www.ceiboardbox.com/gatito-3</guid>
+            <description>Descripción del gatito 3.</description>
+        </item>
+
+        <item>
+            <title>Gatito 4</title>
+            <guid>https://www.ceiboardbox.com/gatito-4</guid>
+            <description>Descripción del gatito 4.</description>
+        </item>
+
+        <item>
+            <title>Gatito 5</title>
+            <guid>https://www.ceiboardbox.com/gatito-5</guid>
+            <description>Descripción del gatito 5.</description>
+        </item>
+
+        <item>
+            <title>Gatito 6</title>
+            <guid>https://www.ceiboardbox.com/gatito-6</guid>
+            <description>Descripción del gatito 6.</description>
+        </item>
+
+        <item>
+            <title>Gatito 7</title>
+            <guid>https://www.ceiboardbox.com/gatito-7</guid>
+            <description>Descripción del gatito 7.</description>
+        </item>
+
+        <item>
+            <title>Gatito 8</title>
+            <guid>https://www.ceiboardbox.com/gatito-8</guid>
+            <description>Descripción del gatito 8.</description>
+        </item>
+
+        <item>
+            <title>Gatito 9</title>
+            <guid>https://www.ceiboardbox.com/gatito-9</guid>
+            <description>Descripción del gatito 9.</description>
+        </item>
+
+    </channel>
+</rss>
