@@ -1,0 +1,79 @@
+body {
+    font-family: Georgia, 'Times New Roman', serif;
+    margin: 40px;
+    background-color: white;
+    color: black;
+}
+
+.header {
+    display: flex;
+    gap: 30px;
+}
+
+.item-menu {
+    text-align: center;
+    cursor: pointer;
+    width: 80px;
+}
+
+.item-menu img {
+    width: 50px;
+    height: auto;
+    display: block;
+    margin: 0 auto 5px auto;
+}
+
+.item-menu span {
+    font-size: 14px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+.box {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.img-texto-mano {
+    width: 80%;
+    max-width: 600px;
+    display: block;
+    margin: 0 auto 20px auto;
+}
+
+.img-caja-gatos {
+    width: 200px;
+    display: block;
+    margin: 0 20% 0 auto; 
+}
+
+.about-us {
+    max-width: 600px;
+    margin-bottom: 60px;
+    line-height: 1.4;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+footer {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 15px;
+    text-align: right;
+    font-size: 14px;
+}
+
+.footer-logo {
+    width: 40px;
+    height: auto;
+}
