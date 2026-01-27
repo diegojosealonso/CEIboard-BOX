@@ -2,7 +2,7 @@
 
 ## Theme
 The chosen theme is a **cat shelter**.  
-The idea behind this project is to share regular entries related to the shelter—such as stories, updates, and care information—using a format that is different from a traditional “News” website :)
+The idea behind this project is to share regular entries related to the shelter—such as stories, updates, and care information—using a format that is different from a traditional “News” website :) Also we wanted to click on a carboard box to access the rss. Just because it looks cute.
 
 <img width="1086" height="772" alt="Captura de pantalla 2026-01-27 130235" src="https://github.com/user-attachments/assets/e7fc7a2b-387d-46a5-a322-0edf2efb34c9" />
 
@@ -16,5 +16,6 @@ The chosen content aggregator is **Feedly**
 
 ## Generated URL
 The RSS feed is available at:
+
 
 
