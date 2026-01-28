@@ -14,9 +14,10 @@ The project is hosted using **GitHub Pages:** https://diegojosealonso.github.io/
 ## Content Aggregator
 The chosen content aggregator is **Feedly:**
 
-<img width="1327" height="909" alt="Captura de pantalla 2026-01-28 121617" src="https://github.com/user-attachments/assets/f709bdb6-3d34-4783-b52a-7ecfbd6c9e94" />
+<img width="1318" height="868" alt="Captura de pantalla 2026-01-28 121617" src="https://github.com/user-attachments/assets/20927e3a-a2d8-4d78-b638-ad1ad37648e6" />
 
 Best wishes!
 
 <img src="https://github.com/user-attachments/assets/466b6959-31a8-4b52-91a9-0968df1321b0" alt="ye" width="200">
+
 
