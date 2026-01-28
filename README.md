@@ -9,13 +9,9 @@ The idea behind this project is to share regular entries related to the shelterâ
 The selected format is **RSS**, as it allows users to subscribe easily and receive updates whenever new content is published.
 
 ## Hosting Platform
-The project is hosted using **GitHub Pages**
+The project is hosted using **GitHub Pages:** https://diegojosealonso.github.io/
 
 ## Content Aggregator
-The chosen content aggregator is **Feedly**
+The chosen content aggregator is **Feedly**.
 
-## Generated URL
-The RSS feed is available at:
-
-
-
+![ye](https://github.com/user-attachments/assets/466b6959-31a8-4b52-91a9-0968df1321b0)
