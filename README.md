@@ -14,4 +14,4 @@ The project is hosted using **GitHub Pages:** https://diegojosealonso.github.io/
 ## Content Aggregator
 The chosen content aggregator is **Feedly**.
 
-![ye](https://github.com/user-attachments/assets/466b6959-31a8-4b52-91a9-0968df1321b0)
+<img src="https://github.com/user-attachments/assets/466b6959-31a8-4b52-91a9-0968df1321b0" alt="ye" width="200">
